@@ -1,6 +1,8 @@
+
 ---
-layout: page
 title: "Grants & Scholarships"
+layout: single
+author_profile: true
 permalink: /grants/
 ---
 
