@@ -248,9 +248,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      sidebar:
-        nav: "main"
-
+ 
   # _teaching
   - scope:
       path: ""
@@ -260,8 +258,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-      sidebar:
-        nav: "main"
 
   # _publications
   - scope:
@@ -272,8 +268,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-      sidebar:
-        nav: "main"
 
   # _talks
   - scope:
@@ -283,9 +277,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-      sidebar:
-        nav: "main"
-
+ 
 
 # Sass/SCSS
 sass:
