@@ -1,33 +1,32 @@
-# The following is the order of the links in the header of the website.
+# Order of links in the site header navigation.
+# Changing the order here adjusts how they appear in the header.
+# You can also add or remove links.
 #
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-#
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
+# NOTE: Only one of the CV options should be active.
+#       - The first uses the Markdown page (/cv/)
+#       - The second uses the JSON-generated CV (/cv-json/)
 
 main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Research Projects"
+    url: /projects/
+
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+    url: /teaching/
+
+  - title: "Honors & Awards"
+    url: /honors/
+
+  - title: "Grants"
+    url: /grants/
+
   - title: "CV"
     url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+    # If you want the JSON-based CV instead, comment the above and uncomment below:
+    # - title: "CV"
+    #   url: /cv-json/
