@@ -279,6 +279,36 @@ defaults:
       share: true
       comments: true
 
+# Research Projects
+- scope:
+    path: ""
+    type: research
+  values:
+    layout: single
+    author_profile: false   # no sidebar
+    share: true
+    comments: true
+
+# Honors & Awards
+- scope:
+    path: ""
+    type: awards
+  values:
+    layout: single
+    author_profile: false
+    share: true
+    comments: true
+
+# Grants
+- scope:
+    path: ""
+    type: grants
+  values:
+    layout: single
+    author_profile: false
+    share: true
+    comments: true
+    
 # Sass/SCSS
 sass:
   sass_dir: _sass
