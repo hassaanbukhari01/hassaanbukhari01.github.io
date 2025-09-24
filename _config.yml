@@ -282,7 +282,7 @@ defaults:
 # Research Projects
 - scope:
     path: ""
-    type: research
+    type: projects
   values:
     layout: single
     author_profile: false   # no sidebar
@@ -292,7 +292,7 @@ defaults:
 # Honors & Awards
 - scope:
     path: ""
-    type: awards
+    type: honors
   values:
     layout: single
     author_profile: false
