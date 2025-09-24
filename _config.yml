@@ -24,7 +24,7 @@ repository               : "hassaanbukhari01/hassaanbukhari01.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/hassaan_profile_pic.png"
   name             : "Hassaan Bukhari"
   pronouns         : "he/him"  
   bio              : "Postdoctoral Fellow in Biomedical Engineering at Cleveland Clinic, Ohio, research on Biomedical Signal Processing, AI and Computational Modeling"
