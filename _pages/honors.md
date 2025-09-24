@@ -1,6 +1,8 @@
+
 ---
-layout: page
 title: "Honors & Awards"
+layout: single
+author_profile: true
 permalink: /honors/
 ---
 
