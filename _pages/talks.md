@@ -1,8 +1,11 @@
+
 ---
-layout: page
 title: "Talks & Presentations"
+layout: single
+author_profile: true
 permalink: /talks/
 ---
+
 
 ### ORAL AND POSTER PRESENTATIONS
 
