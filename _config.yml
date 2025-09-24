@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Hassaan's Academic Page"
+title                    : "Hassaan Bukhari"
 email                    : "hassaanahmed01@hotmail.com"
 title_separator          : "-"
 name                     : &name "Hassaan Bukhari"
