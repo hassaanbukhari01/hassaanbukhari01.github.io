@@ -24,7 +24,7 @@ Education
 
 Work experience
 ======
-*Sept 2023 – Present: Postdoctoral Fellow
+* Sept 2023 – Present: Postdoctoral Fellow
   * Cleveland Clinic, Cleveland, OH, USA
   * Duties include: Validating and improving FDA-approved urodynamics device, detecting urological events from bladder pressure signals using AI, leading ECG, EGM, and bladder signal analysis projects funded by AHA, NIH, CRIC, and CCF, mentoring graduate and undergraduate students, developing papers (conferences and manuscripts) for peer-reviewed journals
   * Supervisor: Dr Margot Damaser and Dr Larisa Tereshchenko
