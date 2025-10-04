@@ -176,7 +176,7 @@ Honors & Awards
 
 Oral & Poster Presentations
 ======
-* H.A. Bukhari, “Validation of Wireless Ambulatory Urodynamics in Neurogenic Bladder Patients with Multiple Sclerosis,” Trainee Presentation, SBUR Summer Trainee Webinar Series, July 2025  
+* H.A. Bukhari et al., “Validation of Wireless Ambulatory Urodynamics in Neurogenic Bladder Patients with Multiple Sclerosis,” Trainee Presentation, SBUR Summer Trainee Webinar Series, July 2025  
 * H.A. Bukhari et al., “Quantitative Validation of a Wireless Ambulatory Urodynamics Device Using Bland-Altman Analysis,” Poster, 2025 APTC iCON Symposium, Cleveland, OH, USA, May 2025. (2nd place, Graduate Division Prize)  
 * H.A. Bukhari et al., “Automated Detection and Statistical Analysis of Non-Physiological Artifacts and Electrode Misplacement in ECG Signals,” Poster, 2025 Joint Biostatistics Symposium, Cleveland, OH, USA, April 2025. (Included in award competition)
 * H.A. Bukhari et al., “Automated Detection of Non-Physiological Artifacts and Incorrect Placement of Electrodes on ECG Signal,” Oral, 44th Annual Cleveland Clinic Research Day, Cleveland, OH, USA, October 2024. (Finalist, F. Merlin Bumpus Junior Investigator Award, Clinical Science)
