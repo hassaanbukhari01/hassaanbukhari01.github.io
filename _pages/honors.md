@@ -1,4 +1,3 @@
-
 ---
 title: "Honors & Awards"
 layout: single
