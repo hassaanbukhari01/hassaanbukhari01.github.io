@@ -25,7 +25,7 @@ permalink: /grants/
 
 - **2025 – 2028** — *Marie Skłodowska-Curie SYS-LIFE Postdoctoral Fellowship*  
   - **Institution:** University of Turku, Finland  
-  - Awarded a **3-year competitive fellowship** (ranked **4th** among all applicants) to conduct interdisciplinary research in **biomedical signal processing and AI**.  
+  - Awarded a **3-year competitive fellowship** (ranked **4th** among all applicants) to conduct interdisciplinary research in **biomedical signal processing and AI**, declined due to concurrent Novo Nordisk Foundation Fellowship.  
   - **Project Title:** *Computational Analysis of Multimodal Data in New-onset Atrial Fibrillation: Integrating Spatial Histopathology and Temporal ECG Signal Processing with Omics Layers.*
 
 - **2025 – 2028** — *Cleveland Clinic – Denmark: Quantum–AI Biomedical Frontiers Fellowship*  
