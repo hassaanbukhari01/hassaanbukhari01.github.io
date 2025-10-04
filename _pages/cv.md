@@ -4,9 +4,10 @@ permalink: /cv/
 layout: single
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume/
+toc: true
 ---
-{% include base_path %}
+#{% include base_path %}
 
 Professional Summary
 ======
