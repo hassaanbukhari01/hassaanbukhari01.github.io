@@ -6,7 +6,7 @@ author_profile: true
 permalink: /talks/
 ---
 
-### ORAL AND POSTER PRESENTATIONS
+## ORAL AND POSTER PRESENTATIONS
 
 - **H.A. Bukhari** et al., “Assessment of a Wireless Ambulatory Urodynamics Device in Women with Neurogenic Bladder and Men with Voiding Dysfunction,” *Poster*, BMES 2025, San Diego, CA, USA, October 2025. *(Accepted)*
 
