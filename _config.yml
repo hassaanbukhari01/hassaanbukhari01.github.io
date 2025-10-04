@@ -289,34 +289,34 @@ defaults:
       comments: true
 
 # Research Projects
-- scope:
-    path: ""
-    type: projects
-  values:
-    layout: single
-    author_profile: true
-    share: true
-    comments: true
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Honors & Awards
-- scope:
-    path: ""
-    type: honors
-  values:
-    layout: single
-    author_profile: true
-    share: true
-    comments: true
+  - scope:
+      path: ""
+      type: honors
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Grants
-- scope:
-    path: ""
-    type: grants
-  values:
-    layout: single
-    author_profile: true
-    share: true
-    comments: true
+  - scope:
+      path: ""
+      type: grants
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
     
 # Sass/SCSS
 sass:
