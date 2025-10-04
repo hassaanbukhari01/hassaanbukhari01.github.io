@@ -7,7 +7,6 @@ redirect_from:
   - /resume/
 toc: true
 ---
-#{% include base_path %}
 
 Professional Summary
 ======
