@@ -258,7 +258,7 @@ defaults:
       layout: single
       author_profile: true
  
-  # _teaching
+  # Teaching
   - scope:
       path: ""
       type: teaching
@@ -268,7 +268,7 @@ defaults:
       share: true
       comments: true
 
-  # _publications
+  # Publications
   - scope:
       path: ""
       type: publications
@@ -278,7 +278,7 @@ defaults:
       share: true
       comments: true
 
-  # _talks
+  # Talks & Presentations
   - scope:
       path: ""
       type: talks
