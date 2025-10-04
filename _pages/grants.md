@@ -1,4 +1,3 @@
-
 ---
 title: "Grants & Scholarships"
 layout: single
