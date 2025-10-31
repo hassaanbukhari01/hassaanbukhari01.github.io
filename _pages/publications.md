@@ -14,6 +14,8 @@ permalink: /publications/
 
 
   - Bukhari, H.A., Kewalramani, S., Witzigreuter, L., Pourbemany, J., Amadio, N., Daw, J., Rincon-Choles, H., Rao, P., Bhat, Z., Soliman, E.Z., Tereshchenko, L.G., et al. (2025). Automated detection of non-physiological artifacts on ECG       signal: UK Biobank and CRIC. Computers in Biology and Medicine, 196.
+
+  - Michael D Gross, Brendan T Frainey, Madison E Lyon, Kevin C Lewis, Mohamed Elazab, Hassaan A Bukhari, Tyler Tevis, Robert S Butler, Reilly Burhanna, Cole Smith, Howard B Goldman, Ly Hoang-Roberts, Margot S Damaser, and Steve JA Majerus (2025). Validation of A Wireless Catheter-Free Ambulatory Urodynamics Device in Women with Neurogenic Bladder. Accepted in Neurourology and Urodynamics.
   
   - Bukhari, H.A., Sánchez, C., Laguna, P., Potse, M., & Pueyo, E. (2023). Differences in ventricular wall composition contribute to explain inter-patient variability in the ECG response to variations in serum potassium and calcium. Frontiers in Physiology, 14.
   
@@ -33,9 +35,9 @@ permalink: /publications/
 ## Conference Proceedings
 
 
-  - Bukhari, H.A., Jay Patel, Vikram Abbaraju, Margot S. Damaser, Steve J.A. Majerus. (2025). Two-Stage Neural Network Approach for Detecting Urological Events from Bladder Pressure Signals. Accepted in BMES 2025, San Diego, CA, USA.
+  - Bukhari, H.A., Jay Patel, Vikram Abbaraju, Margot S. Damaser, Steve J.A. Majerus. (2025). Two-Stage Neural Network Approach for Detecting Urological Events from Bladder Pressure Signals. Accepted and Presented in BMES 2025, San Diego, CA, USA.
   
-  - Bukhari, H.A., Steve J.A. Majerus, Michael D. Gross, Cole Smith, Madison E. Lyon, Kevin C. Lewis, Reilly Burhanna, Tyler Tevis, Howard B. Goldman, Ly Hoang-Roberts, Margot S. Damaser. (2025). Assessment of a Wireless Ambulatory Urodynamics Device in Women with Neurogenic Bladder and Men with Voiding Dysfunction. Accepted in BMES 2025, San Diego, CA, USA.
+  - Bukhari, H.A., Steve J.A. Majerus, Michael D. Gross, Cole Smith, Madison E. Lyon, Kevin C. Lewis, Reilly Burhanna, Tyler Tevis, Howard B. Goldman, Ly Hoang-Roberts, Margot S. Damaser. (2025). Assessment of a Wireless Ambulatory Urodynamics Device in Women with Neurogenic Bladder and Men with Voiding Dysfunction. Accepted and Presented in BMES 2025, San Diego, CA, USA.
   
   - Bukhari, S.H.A., Dhar, R., Witzigreuter, L., Kewalramani, S., Wazni, O.M., Hussein, A.A., & Tereshchenko, L.G. (2025). Atrial electrogram pre-processing for atrial fibrillation mapping. Heart Rhythm, 22(4), S562–S563.
   
