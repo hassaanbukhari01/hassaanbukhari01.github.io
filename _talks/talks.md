@@ -7,11 +7,13 @@ permalink: /talks/
 
 ## ORAL AND POSTER PRESENTATIONS
 
-- **H.A. Bukhari** et al., “Assessment of a Wireless Ambulatory Urodynamics Device in Women with Neurogenic Bladder and Men with Voiding Dysfunction,” *Poster*, BMES 2025, San Diego, CA, USA, October 2025. *(Accepted)*
+- **H.A. Bukhari** et al., “Automated Detection of Urological Events from Vesical Pressure Signals Using Machine Learning,” *Poster*, 45th Annual Cleveland Clinic Research Day, Cleveland, OH, USA, November 2025. *(Poster Presentation)*
 
-- **H.A. Bukhari** et al., “Two-Stage Neural Network Approach for Detecting Urological Events from Bladder Pressure Signals,” *Poster*, BMES 2025, San Diego, CA, USA, October 2025. *(Accepted)*
+- **H.A. Bukhari** et al., “Assessment of a Wireless Ambulatory Urodynamics Device in Women with Neurogenic Bladder and Men with Voiding Dysfunction,” *Poster*, BMES 2025, San Diego, CA, USA, October 2025. *(Poster Presentation)*
 
-- **H.A. Bukhari**, “Validation of Wireless Ambulatory Urodynamics in Neurogenic Bladder Patients with Multiple Sclerosis,” *Trainee Presentation*, SBUR Summer Trainee Webinar Series: Bladder Diseases, July 2025.
+- **H.A. Bukhari** et al., “Two-Stage Neural Network Approach for Detecting Urological Events from Bladder Pressure Signals,” *Poster*, BMES 2025, San Diego, CA, USA, October 2025. *(Poster Presentation)*
+
+- **H.A. Bukhari**, “Validation of Wireless Ambulatory Urodynamics in Neurogenic Bladder Patients with Multiple Sclerosis,” *Trainee Presentation*, SBUR Summer Trainee Webinar Series: Bladder Diseases, July 2025. *(Oral Talk)*
 
 - **H.A. Bukhari** et al., “Quantitative Validation of a Wireless Ambulatory Urodynamics Device Using Bland-Altman Analysis in Neurogenic Bladder Patients,” *Poster*, 2025 APTC iCON Symposium, Cleveland, OH, USA, May 2025. (2nd place, Graduate Division Prize)
 
