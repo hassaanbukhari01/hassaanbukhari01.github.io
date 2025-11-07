@@ -41,6 +41,10 @@ permalink: /publications/
   
   - Bukhari, S.H.A., Dhar, R., Witzigreuter, L., Kewalramani, S., Wazni, O.M., Hussein, A.A., & Tereshchenko, L.G. (2025). Atrial electrogram pre-processing for atrial fibrillation mapping. Heart Rhythm, 22(4), S562–S563.
   
+  - Rajkumar Dhar, Hassaan A. Bukhari, Shivangi Kewalramani, Larisa G. Tereshchenko. (2025). Automated QT Detection in ECG Signals Using Deep Learning. Accepted and Presented in 2025 Joint Biostatistics Symposium, Ohio, USA.
+
+  - Rajkumar Dhar, Hassaan A. Bukhari, Shivangi Kewalramani, Luke Witzigreuter, Larisa G. Tereshchenko. (2025). Pacing Spike Removal from ECG Signal. Accepted and Presented in 2025 CTSC, Ohio, USA.
+
   - Bukhari, H.A., Sánchez, C., Pueyo, E., & Potse, M. (2022). Accelerating stabilization of whole-heart models after changes in cycle length. Computing in Cardiology (CinC), Tampere, Finland, pp. 1–4.
   
   - Bukhari, H.A., Laguna, P., Potse, M., Sánchez, C., & Pueyo, E. (2021). QRS slopes for potassium and calcium monitoring in end-stage renal disease patients. Computing in Cardiology (CinC), Brno, Czech Republic, pp. 1–4.
