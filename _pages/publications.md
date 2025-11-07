@@ -15,7 +15,7 @@ permalink: /publications/
 
   - Bukhari, H.A., Kewalramani, S., Witzigreuter, L., Pourbemany, J., Amadio, N., Daw, J., Rincon-Choles, H., Rao, P., Bhat, Z., Soliman, E.Z., Tereshchenko, L.G., et al. (2025). Automated detection of non-physiological artifacts on ECG       signal: UK Biobank and CRIC. Computers in Biology and Medicine, 196.
 
-  - Michael D Gross, Brendan T Frainey, Madison E Lyon, Kevin C Lewis, Mohamed Elazab, Hassaan A Bukhari, Tyler Tevis, Robert S Butler, Reilly Burhanna, Cole Smith, Howard B Goldman, Ly Hoang-Roberts, Margot S Damaser, and Steve JA Majerus (2025). Validation of A Wireless Catheter-Free Ambulatory Urodynamics Device in Women with Neurogenic Bladder. Accepted in Neurourology and Urodynamics.
+  - Michael D Gross, Brendan T Frainey, Madison E Lyon, Kevin C Lewis, Mohamed Elazab, Hassaan A Bukhari, Tyler Tevis, Robert S Butler, Reilly Burhanna, Cole Smith, Howard B Goldman, Ly Hoang-Roberts, Margot S Damaser, and Steve JA Majerus (2025). Validation of A Wireless Catheter-Free Ambulatory Urodynamics Device in Women with Neurogenic Bladder. Neurourology and Urodynamics. Nov 2025.
   
   - Bukhari, H.A., Sánchez, C., Laguna, P., Potse, M., & Pueyo, E. (2023). Differences in ventricular wall composition contribute to explain inter-patient variability in the ECG response to variations in serum potassium and calcium. Frontiers in Physiology, 14.
   
