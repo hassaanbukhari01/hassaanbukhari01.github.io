@@ -109,11 +109,15 @@ Publications
 
 * Conference Proceedings
 
-  * Bukhari, H.A., Jay Patel, Vikram Abbaraju, Margot S. Damaser, Steve J.A. Majerus. (2025). Two-Stage Neural Network Approach for Detecting Urological Events from Bladder Pressure Signals. Accepted in BMES 2025, San Diego, CA, USA.
+  * Bukhari, H.A., Jay Patel, Vikram Abbaraju, Margot S. Damaser, Steve J.A. Majerus. (2025). Two-Stage Neural Network Approach for Detecting Urological Events from Bladder Pressure Signals. Accepted and Presented in BMES 2025, San Diego, CA, USA.
   
-  * Bukhari, H.A., Steve J.A. Majerus, Michael D. Gross, Cole Smith, Madison E. Lyon, Kevin C. Lewis, Reilly Burhanna, Tyler Tevis, Howard B. Goldman, Ly Hoang-Roberts, Margot S. Damaser. (2025). Assessment of a Wireless Ambulatory Urodynamics Device in Women with Neurogenic Bladder and Men with Voiding Dysfunction. Accepted in BMES 2025, San Diego, CA, USA.
-  
+  * Bukhari, H.A., Steve J.A. Majerus, Michael D. Gross, Cole Smith, Madison E. Lyon, Kevin C. Lewis, Reilly Burhanna, Tyler Tevis, Howard B. Goldman, Ly Hoang-Roberts, Margot S. Damaser. (2025). Assessment of a Wireless Ambulatory Urodynamics Device in Women with Neurogenic Bladder and Men with Voiding Dysfunction. Accepted and Presented in BMES 2025, San Diego, CA, USA.
+   
   * Bukhari, S.H.A., Dhar, R., Witzigreuter, L., Kewalramani, S., Wazni, O.M., Hussein, A.A., & Tereshchenko, L.G. (2025). Atrial electrogram pre-processing for atrial fibrillation mapping. Heart Rhythm, 22(4), S562–S563.
+ 
+  * Rajkumar Dhar, Hassaan A. Bukhari, Shivangi Kewalramani, Larisa G. Tereshchenko. (2025). Automated QT Detection in ECG Signals Using Deep Learning. Accepted and Presented in 2025 Joint Biostatistics Symposium, Ohio, USA.
+  
+  * Rajkumar Dhar, Hassaan A. Bukhari, Shivangi Kewalramani, Luke Witzigreuter, Larisa G. Tereshchenko. (2025). Pacing Spike Removal from ECG Signal. Accepted and Presented in 2025 CTSC, Ohio, USA.
   
   * Bukhari, H.A., Sánchez, C., Pueyo, E., & Potse, M. (2022). Accelerating stabilization of whole-heart models after changes in cycle length. Computing in Cardiology (CinC), Tampere, Finland, pp. 1–4.
   
