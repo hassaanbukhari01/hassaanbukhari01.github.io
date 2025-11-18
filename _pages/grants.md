@@ -13,9 +13,8 @@ permalink: /grants/
 - **2021 – 2022** — *Ministry of Science and Innovation, Spain* — fully funded PhD grant  
 - **2020 & 2022** — *IberCaja-CAI Mobility Grant*, Spain  
 - **2019** — *Isaac Newton Institute for Mathematical Sciences* — Travel Grant, Cambridge, UK  
-- **2017** — *Higher Education Commission (HEC), Pakistan* — fully funded Research Grants (China & Japan)  
-- **2021 – 2022** — *France EIFFEL Scholarship* (application submitted for salary and travel support; not awarded)  
-- **Sept 2024** — *American Heart Association (AHA) Postdoctoral Fellowship* — proposal submitted  
+- **2017** — *Higher Education Commission (HEC), Pakistan* — fully funded Research Grant for China (June 2017)  
+- **2017** — *Higher Education Commission (HEC), Pakistan* — fully funded Research Grants for Japan (Aug 2017)  
 - **2025** — *BME Graduate Student/Postdoctoral Professional Development Award*, Cleveland Clinic, USA  
   - Up to \$5,000 awarded for conference travel and professional development support
 
