@@ -109,6 +109,12 @@ Publications
 
 * Conference Proceedings
 
+  * Hassaan A. Bukhari, Jay Patel, Vikram Abbaraju, Stacy Jeong, Margot S. Damaser, and Steve J.A. Majerus. (2026). Towards Ambulatory Urodynamics: AI-Based Analysis of Single-Channel Vesical Pressure Signals. Accepted for presentation at the Society for Pelvic Research (SPR) 2026, Orlando, FL, USA, January 30–31, 2026.
+
+  * Hassaan A. Bukhari, Stacy Jeong, Michael D. Gross, Cole Smith, Madison E. Lyon, Kevin C. Lewis, Reilly Burhanna, Tyler Tevis, Howard B. Goldman, Ly Hoang-Roberts, Steve J.A. Majerus, and Margot S. Damaser. (2026). Expanding the Assessment of a Wireless Ambulatory Urodynamics Device in Women with Neurogenic Bladder and Men with Voiding Dysfunction. Accepted for presentatio at the Society for Pelvic Research (SPR) 2026, Orlando, FL, USA, January 30–31, 2026.
+
+  * Jeong, S.H., Hassaan A. Bukhari, Tyler Trump, Michael Gross, Kassandra Zaila Ardines, Madison Lyon, Steve J.A. Majerus, Brett Hanzlicek, Tyler Tevis, Smita De, Ly Hoang Roberts, and Margot S. Damaser. (2026). Feasibility of Wireless Catheter-Free Ambulatory Urodynamics in Male Patients. Accepted for presentation at SUFU 2026, San Juan, PR, USA, February 25–28, 2026.
+  
   * Bukhari, H.A., Jay Patel, Vikram Abbaraju, Margot S. Damaser, Steve J.A. Majerus. (2025). Two-Stage Neural Network Approach for Detecting Urological Events from Bladder Pressure Signals. Accepted and Presented in BMES 2025, San Diego, CA, USA.
   
   * Bukhari, H.A., Steve J.A. Majerus, Michael D. Gross, Cole Smith, Madison E. Lyon, Kevin C. Lewis, Reilly Burhanna, Tyler Tevis, Howard B. Goldman, Ly Hoang-Roberts, Margot S. Damaser. (2025). Assessment of a Wireless Ambulatory Urodynamics Device in Women with Neurogenic Bladder and Men with Voiding Dysfunction. Accepted and Presented in BMES 2025, San Diego, CA, USA.
