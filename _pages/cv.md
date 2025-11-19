@@ -163,8 +163,6 @@ Grants & Fellowships
 * IberCaja-CAI Mobility Grant, Spain (2020 and 2022)  
 * Isaac Newton Institute Travel Grant, Cambridge, UK (2019)  
 * Higher Education Commission Pakistan Research Grant (China & Japan, 2017)  
-* France EIFFEL Scholarship, 2021–2022  
-* American Heart Association (AHA) Postdoctoral Fellowship Grant, 2024  
 * BME Graduate Student/Postdoctoral Professional Development Award, Cleveland Clinic, 2025  
 * Cleveland Clinic–Denmark: Quantum–AI Biomedical Frontiers Fellowship (Novo Nordisk Foundation, 2025–2028, PI, approved)  
 * Marie Skłodowska-Curie SYS-LIFE Postdoctoral Fellowship (2025–2028, PI, approved)
